@@ -121,9 +121,9 @@ end
 
 function love.update(dt)
     prcnt = getout("ps -eo pid | wc -l")
-    cpuus = getout("./binblobs/cpu")
-    freemem = getout("./binblobs/mem")
-    diskus = getout("./binblobs/disk")
+    cpuus = getout("binblobs/cpu")
+    freemem = getout("binblobs/mem")
+    diskus = getout("binblobs/disk")
 
     if tonumber(cpuus) > 80 then
         if cpuypos < 110 and not cpuflip then
