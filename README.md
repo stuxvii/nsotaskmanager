@@ -3,8 +3,10 @@ i was bored and made this
 
 ## KNOWN BUGS
 * you cant open it directly
+
 no fucking clue what causes this
 * lag
+
 im too lazy to do separate threads to handle getting the info (pull requests welcome)
 
 ## build from source
