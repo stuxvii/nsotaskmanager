@@ -5,7 +5,7 @@ i was bored and made this
 ## HOW TO RUN
 clone the repo
 run ``love .`` in a terminal inside the cloned folder
-it SHOULD work as long as your working directory is indeed the cloned folder
+it SHOULD work as long as your working directory is indeed the cloned folder (if you dont do it that way then you will just get a "attempt to compare number with nil" error cuz it cant run the cpp programs and get stats)
 im sorry that it's like this it's just an amateur love (no pun intended) project
 ## KNOWN BUGS
 * lag
