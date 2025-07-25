@@ -1,4 +1,5 @@
 i was bored and made this
+<br>
 <img width="381" height="315" alt="image" src="https://github.com/user-attachments/assets/261c4d10-5bfb-483c-854a-9ee24fd3b6e7" />
 
 ## KNOWN BUGS
